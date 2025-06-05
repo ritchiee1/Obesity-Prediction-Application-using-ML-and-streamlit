@@ -29,11 +29,11 @@ Multiple ML models were tested to find the highest-performing one:
 
 | Model                   | Accuracy |
 |------------------------|----------|
-| Logistic Regression    | 90%      |
+| Logistic Regression    | 69%      |
 | Neural Network (MLP)   | 85%      |
-| SVM                    | ~        |
-| K-Nearest Neighbors    | ~        |
-| Random Forest (default)| ~        |
+| SVM                    | 73%      |
+| K-Nearest Neighbors    | 86%      |
+| Random Forest (default)| 90%      |
 | **Random Forest (Tuned)** | **91%** ✅ |
 
 ```python
